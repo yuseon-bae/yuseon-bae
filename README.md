@@ -2,9 +2,6 @@
 <h3 align="center">Hi there 👋</h3>
 <p align="center">
 
-<!-- 메시지 형식의 자기소개 --> 
-![https://github.com/yuseon-bae/yuseon-bae/blob/main/chat.svg](https://github.com/yuseon-bae/yuseon-bae/blob/main/chat.svg)
-
 <!--
 **yuseon-bae/yuseon-bae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
