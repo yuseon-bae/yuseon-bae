@@ -228,7 +228,7 @@
   
   <g transform="translate(10, 0)" class="msg-1 bubble">
     <rect width="130" height="42" rx="18.0355" />
-    <text x="15" y="27">Welcome 🙋‍♀️</text>
+    <text x="15" y="27">Welcome! 🙋‍♀️</text>
   </g>
 
   <!-- typing 2 -->
@@ -252,7 +252,8 @@
   <!-- From Columbus... -->
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="290" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">My name is YuSeon Bae</text>
+    <text x="15" y="27">My name is YuSeon Bae.</text>
+    <text x="15" y="50">My major is cyber security.</text>
   </g>
 
   <!-- typing 3 -->
@@ -273,6 +274,13 @@
 
   </g>
 
+  <!-- Work ... -->
+  <g transform="translate(10, 120)" class="msg-3">
+    <rect width="380" height="66.1302" rx="18.0355" class="bubble" />
+    <text x="15" y="27">I am also working hard on</text>
+    <text x="15" y="50">development studies :)</text>
+  </g>
+
   <!-- typing 4 -->
   <g transform="translate(10, 190)" class="typing-4">
     <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
@@ -290,28 +298,10 @@
     </circle>
 
   </g>
-
-  <!-- typing 5 -->
-  <g transform="translate(10, 240)" class="typing-5">
-  <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
-  <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
-  <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
-
-    <circle cx="27.4778" cy="20.9773" r="5.02275" fill="#999999">
-      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" repeatCount="indefinite" />
-    </circle>
-    <circle cx="42.8411" cy="20.9773" r="5.02275" fill="#999999">
-      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.2s" repeatCount="indefinite" />
-    </circle>
-    <circle cx="58.2054" cy="20.9773" r="5.02275" fill="#999999">
-      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite" />
-    </circle>
-
-  </g>
-
   <!-- Thanks -->
-  <g transform="translate(10, 240)" class="msg-5">
+   <g transform="translate(10, 192)" class="msg-4">
     <rect width="350" height="66.13" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Have a good day</text>
+    <text x="15" y="27">Thank you!</text>
+    <text x="15" y="47">Have a good day</text>
   </g>
 </svg>
